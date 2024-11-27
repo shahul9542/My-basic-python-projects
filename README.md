@@ -8,4 +8,7 @@ A console-based calculator capable of performing basic arithmetic operations lik
 3) Rock Paper Scissors ✊✋✌️
 A classic game against the computer with randomized outcomes and score tracking for an interactive experience.
 
+4) Quiz Game
+A Quiz Game where players answer a series of questions, receive instant feedback, and track their score, showcasing interactive Python programming.
+
 These projects were built using only Python, focusing on fundamentals without relying on external libraries or frameworks. Feel free to explore the code in the respective repositories!
